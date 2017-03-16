@@ -71,5 +71,8 @@ Le Projet GNU a été démarré en septembre 1983 par Richard M. Stallman afin d
 
 HTTP signifie "Hypertext Transport Protocol", qui est juste une façon de dire que c'est un protocole pour les informations transmises entre les serveurs WEB et leurs clients. L'important, c'est la lettre S qui fait toute la différence entre HTTP et HTTPS. Le S est synonyme de « Secure (sécurité).
 > 
+> **Qui est Richard Stallman ?**
+
+Richard Matthew Stallman est un programmeur et militant du logiciel libre. Initiateur du mouvement du logiciel libre, il lance, en 1983, le projet GNU et la licence publique générale GNU connue aussi sous l’acronyme GPL. Il a popularisé le terme anglais « copyleft »2. Programmeur renommé de la communauté informatique américaine et internationale, il a développé de nombreux logiciels dont les plus connus des développeurs sont l’éditeur de texte GNU Emacs, le compilateur C de GNU (GCC), le débogueur GNU (gdb) mais aussi, en collaboration avec Roland McGrath, le moteur de production GNU Make.Depuis le milieu des années 1990, il consacre la majeure partie de son temps à la promotion des logiciels libres auprès de divers publics un peu partout dans le monde.
 > 
-> 
+
