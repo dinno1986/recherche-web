@@ -70,11 +70,11 @@ Le Projet GNU a été démarré en septembre 1983 par Richard M. Stallman afin d
 **Quelles sont les différences entre le Http et le Https ?**
 
 HTTP signifie "Hypertext Transport Protocol", qui est juste une façon de dire que c'est un protocole pour les informations transmises entre les serveurs WEB et leurs clients. L'important, c'est la lettre S qui fait toute la différence entre HTTP et HTTPS. Le S est synonyme de « Secure (sécurité).
-> 
-> **Qui est Richard Stallman ?**
+
+**Qui est Richard Stallman ?**
 
 Richard Matthew Stallman est un programmeur et militant du logiciel libre. Initiateur du mouvement du logiciel libre, il lance, en 1983, le projet GNU et la licence publique générale GNU connue aussi sous l’acronyme GPL. Il a popularisé le terme anglais « copyleft »2. Programmeur renommé de la communauté informatique américaine et internationale, il a développé de nombreux logiciels dont les plus connus des développeurs sont l’éditeur de texte GNU Emacs, le compilateur C de GNU (GCC), le débogueur GNU (gdb) mais aussi, en collaboration avec Roland McGrath, le moteur de production GNU Make.Depuis le milieu des années 1990, il consacre la majeure partie de son temps à la promotion des logiciels libres auprès de divers publics un peu partout dans le monde.
-> 
+
 
 **Comment fonctionnent les bang de Duck Duck Go ?**
 
@@ -83,4 +83,9 @@ Il suffit d’utiliser une commande appelée !bang, cette syntaxe fonctionne pou
 
 **Qui est Marissa Mayer ?**
 
-Marissa Ann Mayer est une informaticienne et chef d'entreprise américaine. Elle occupe de 2012 à 2017 le poste de PDG de Yahoo! après 13 ans chez Google en tant que vice-présidente1 responsable des services de cartographie et de géolocalisation2. Marissa Mayer, n’a jamais été enthousiasmée par la vente de Yahoo. Elle en fait aujourd’hui les frais et quitte le conseil d’administration. Officiellement, elle a donné sa démission.
+Marissa Ann Mayer est une informaticienne et chef d'entreprise américaine. Elle occupe de 2012 à 2017 le poste de PDG de Yahoo! après 13 ans chez Google en tant que vice-présidente1 responsable des services de cartographie et de géolocalisation2. Marissa Mayer, n’a jamais été enthousiasmée par la vente de Yahoo. Elle en fait aujourd’hui les frais et quitte le conseil d’administration. Officiellement, elle a donné sa démission
+
+**Qu’est-ce qu’une attaque “brute force” ?**
+
+Une attaque par force brute, ou attaque par exhaustivité, est une méthode utilisée par les pirates et en cryptanalyse pour découvrir le mot de passe ou la clef. Exhaustivité car il s'agit d'essayer toutes les combinaisons possibles !
+Ce type d'attaque pirate est en réalité la moins subtile de toutes. Derrière ce concept effrayant de force brute se cache en réalité une technique très simple et très barbare.
