@@ -51,3 +51,7 @@ C'est un moteur de recherche français qui annonce ne pas tracer ses utilisateur
 
 Il est né en 1950 c'est un informaticien, professeur d'informatique et électronicien américain.Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne, et concepteur des premiers Apple (dont Apple I, Apple II, Apple III, Lisa et divers périphériques), et est un des pionniers de l'industrie micro-informatique.
 
+**D'où vient l'expression "bug informatique" ?**
+
+Lors des travaux sur le Mark II, l’équipe de Grace Hopper ouvrit les fenêtres tant la chaleur était insupportable…ce qui eut pour conséquence de faire planter l’ordinateur : une grosse mite s’y était logée. Ce fut donc le premier débuggage de l’histoire. La mite est quant à elle scotchée sur le carnet de notes de Grace Hopper, qui est visible au Musée de l’Histoire Américaine de Washington.
+
