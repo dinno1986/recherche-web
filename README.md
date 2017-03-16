@@ -76,3 +76,8 @@ HTTP signifie "Hypertext Transport Protocol", qui est juste une façon de dire q
 Richard Matthew Stallman est un programmeur et militant du logiciel libre. Initiateur du mouvement du logiciel libre, il lance, en 1983, le projet GNU et la licence publique générale GNU connue aussi sous l’acronyme GPL. Il a popularisé le terme anglais « copyleft »2. Programmeur renommé de la communauté informatique américaine et internationale, il a développé de nombreux logiciels dont les plus connus des développeurs sont l’éditeur de texte GNU Emacs, le compilateur C de GNU (GCC), le débogueur GNU (gdb) mais aussi, en collaboration avec Roland McGrath, le moteur de production GNU Make.Depuis le milieu des années 1990, il consacre la majeure partie de son temps à la promotion des logiciels libres auprès de divers publics un peu partout dans le monde.
 > 
 
+**Comment fonctionnent les bang de Duck Duck Go ?**
+
+DuckDuckGo permet de rechercher directement à l’intérieur de centaines de sites.
+Il suffit d’utiliser une commande appelée !bang, cette syntaxe fonctionne pour la plupart des sites internet les plus populaires, par exemple ! youtube pour rechercher à l’intérieur de Youtube. Il suffit donc d’indiquer à la suite de votre requête un point d’exclamation suivi du nom du site ou du diminutif y correspondant
+
