@@ -81,3 +81,6 @@ Richard Matthew Stallman est un programmeur et militant du logiciel libre. Initi
 DuckDuckGo permet de rechercher directement à l’intérieur de centaines de sites.
 Il suffit d’utiliser une commande appelée !bang, cette syntaxe fonctionne pour la plupart des sites internet les plus populaires, par exemple ! youtube pour rechercher à l’intérieur de Youtube. Il suffit donc d’indiquer à la suite de votre requête un point d’exclamation suivi du nom du site ou du diminutif y correspondant
 
+**Qui est Marissa Mayer ?**
+
+Marissa Ann Mayer est une informaticienne et chef d'entreprise américaine. Elle occupe de 2012 à 2017 le poste de PDG de Yahoo! après 13 ans chez Google en tant que vice-présidente1 responsable des services de cartographie et de géolocalisation2. Marissa Mayer, n’a jamais été enthousiasmée par la vente de Yahoo. Elle en fait aujourd’hui les frais et quitte le conseil d’administration. Officiellement, elle a donné sa démission.
