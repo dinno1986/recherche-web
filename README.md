@@ -35,5 +35,11 @@ Copyleft est une méthode pour rendre libre un programme.
 
 **Que sont les Creatives Commons ?**
 
-C'est une organisation à but non lucratif dont le but est de proposer une solution alternative légale aux personnes souhaitant libérer leurs oeuvres des droits de propriété intellectuelle de leur pays jugé trop restrictifs. 
+C'est une organisation à but non lucratif dont le but est de proposer une solution alternative légale aux personnes souhaitant libérer leurs oeuvres des droits de propriété intellectuelle de leur pays jugé trop restrictifs.
+
+**Qui est Grace Hopper ?**
+
+Grace Hooper(1906-1992) est une informaticienne de la marine américaine. Elle est la conceptrice du 1er compilateur en 1951((A-0 System). Il permettait de décrire un programme comme une séquence de sous-programmes ayant des paramètres. Les sous-programmes étaient identifiés par un code numérique et leurs paramètres étaient écrits directement après le code de chaque sous-programme. Le « système A-0 » convertissait cette description en code machine exécutable sur l'ordinateur cible.
+
+Elle à également conçue en 1959 le langage COBOL.Son nom est l'acronyme de Common Business Oriented Language qui révèle sa vocation originelle : être un langage commun pour la programmation d'applications de gestion.
 
