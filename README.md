@@ -94,5 +94,8 @@ Ce type d'attaque pirate est en réalité la moins subtile de toutes. Derrière 
 
 Linus Benedict Torvalds est un informaticien américano-finlandais. Il est connu pour avoir créé en 1991 le noyau Linux dont il continue de diriger le développement. Inspiré par le système Minix développé par Andrew S. Tanenbaum, il développe un noyau de système d'exploitation pour tirer pleinement parti des fonctionnalités de son nouvel ordinateur personnel, un compatible PC doté d'un microprocesseur Intel 80386. Ce noyau est celui du système d'exploitation GNU/Linux, sous licence GPL. Il  a également créé le logiciel de gestion de versions Git, initialement prévu pour le développement du noyau Linux.
 
+**Combien coûte un nom de domaine ?**
+
+Selon le registrar et l’extension choisie de votre nom de domaine, le prix d’un NDD peut varier. En règle générale, il varie entre 6 et 15 euros. Sachez qu’en plus du nom de domaine, vous aurez à payer un hébergement supplémentaire pour que votre nom de domaine soit en ligne et visible par les internautes. N’hésitez pas à faire l’achat de plusieurs extensions de votre nom de domaine. 
 
 
