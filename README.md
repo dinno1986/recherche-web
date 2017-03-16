@@ -14,10 +14,10 @@ Internet est l'infrastructure réseau qui connecte des ordinateurs du monde enti
 
 Le web est une toute petite partie d'Internet. C'est un service d'échange d'informations pour un grand public.
 
-**Qu'est ce   8.8.8.8 ?
-			  192.168.0.1 ?
-			  255.255.255.0 ?
-			  127.0.0.1 ?**
+**Qu'est ce  * 8.8.8.8 ?
+			 * 192.168.0.1 ?
+			 * 255.255.255.0 ?
+			 * 127.0.0.1 ?**
 
 8.8.8.8 : est le serveur DNS de google
 
@@ -46,4 +46,8 @@ Elle à également conçue en 1959 le langage COBOL.Son nom est l'acronyme de Co
 **Qu'est-ce que Qwant ?**
 
 C'est un moteur de recherche français qui annonce ne pas tracer ses utilisateurs afin de garantir la vie privée.
+
+**Qui est Steve Wozniak ?**
+
+Il est né en 1950 c'est un informaticien, professeur d'informatique et électronicien américain.Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne, et concepteur des premiers Apple (dont Apple I, Apple II, Apple III, Lisa et divers périphériques), et est un des pionniers de l'industrie micro-informatique.
 
