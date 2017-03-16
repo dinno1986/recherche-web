@@ -14,10 +14,10 @@ Internet est l'infrastructure réseau qui connecte des ordinateurs du monde enti
 
 Le web est une toute petite partie d'Internet. C'est un service d'échange d'informations pour un grand public.
 
-**Qu'est ce  + 8.8.8.8 ?
-			 + 192.168.0.1 ?
-			 + 255.255.255.0 ?
-			 + 127.0.0.1 ?**
+**Qu'est ce  * 8.8.8.8 ?
+			 * 192.168.0.1 ?
+			 * 255.255.255.0 ?
+			 * 127.0.0.1 ?**
 
 8.8.8.8 : est le serveur DNS de google
 
@@ -25,5 +25,11 @@ Le web est une toute petite partie d'Internet. C'est un service d'échange d'inf
 
 255.255.255.0 : est le masque de sous réseau
 
-127.0.0.1 : est le Localhost
+127.0.0.1 : est le Localhost.
+
+** Que sont le copyright et le copyleft ? **
+
+Copyright indique la présence d'une création déposée ou non mais bénificiant d'une protection au titre de la Propriété du droit d'auteur.
+
+Copyleft est une méthode pour rendre libre un programme.
 
