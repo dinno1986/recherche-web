@@ -43,3 +43,7 @@ Grace Hooper(1906-1992) est une informaticienne de la marine américaine. Elle e
 
 Elle à également conçue en 1959 le langage COBOL.Son nom est l'acronyme de Common Business Oriented Language qui révèle sa vocation originelle : être un langage commun pour la programmation d'applications de gestion.
 
+**Qu'est-ce que Qwant ?**
+
+C'est un moteur de recherche français qui annonce ne pas tracer ses utilisateurs afin de garantir la vie privée.
+
