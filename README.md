@@ -89,3 +89,10 @@ Marissa Ann Mayer est une informaticienne et chef d'entreprise américaine. Elle
 
 Une attaque par force brute, ou attaque par exhaustivité, est une méthode utilisée par les pirates et en cryptanalyse pour découvrir le mot de passe ou la clef. Exhaustivité car il s'agit d'essayer toutes les combinaisons possibles !
 Ce type d'attaque pirate est en réalité la moins subtile de toutes. Derrière ce concept effrayant de force brute se cache en réalité une technique très simple et très barbare.
+
+**Qui est Linus Torvalds ? Quels sont ses plus grands développements ?**
+
+Linus Benedict Torvalds est un informaticien américano-finlandais. Il est connu pour avoir créé en 1991 le noyau Linux dont il continue de diriger le développement. Inspiré par le système Minix développé par Andrew S. Tanenbaum, il développe un noyau de système d'exploitation pour tirer pleinement parti des fonctionnalités de son nouvel ordinateur personnel, un compatible PC doté d'un microprocesseur Intel 80386. Ce noyau est celui du système d'exploitation GNU/Linux, sous licence GPL. Il  a également créé le logiciel de gestion de versions Git, initialement prévu pour le développement du noyau Linux.
+
+
+
