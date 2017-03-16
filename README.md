@@ -14,10 +14,10 @@ Internet est l'infrastructure réseau qui connecte des ordinateurs du monde enti
 
 Le web est une toute petite partie d'Internet. C'est un service d'échange d'informations pour un grand public.
 
-**Qu'est ce  * 8.8.8.8 ?
-			 * 192.168.0.1 ?
-			 * 255.255.255.0 ?
-			 * 127.0.0.1 ?**
+**Qu'est ce   8.8.8.8 ?
+			  192.168.0.1 ?
+			  255.255.255.0 ?
+			  127.0.0.1 ?**
 
 8.8.8.8 : est le serveur DNS de google
 
@@ -55,3 +55,6 @@ Il est né en 1950 c'est un informaticien, professeur d'informatique et électro
 
 Lors des travaux sur le Mark II, l’équipe de Grace Hopper ouvrit les fenêtres tant la chaleur était insupportable…ce qui eut pour conséquence de faire planter l’ordinateur : une grosse mite s’y était logée. Ce fut donc le premier débuggage de l’histoire. La mite est quant à elle scotchée sur le carnet de notes de Grace Hopper, qui est visible au Musée de l’Histoire Américaine de Washington.
 
+**Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?**
+
+Les communautés présentes sur Toulmouse sont : La Cantine, Meet up, La French Tech
