@@ -66,3 +66,10 @@ Aaron Swartz (1986-2013) est un informaticien américain, écrivain, meneur poli
 **Qu’est-ce que le projet GNU ?**
 
 Le Projet GNU a été démarré en septembre 1983 par Richard M. Stallman afin de créer un système d'exploitation complet utilisant du logiciel libre.De nos jours, il existe plusieurs systèmes d'exploitation libres qui respectent les libertés des utilisateurs en donnant à tout le monde le droit d'utiliser, étudier, partager, et améliorer le logiciel.
+
+**Quelles sont les différences entre le Http et le Https ?**
+
+HTTP signifie "Hypertext Transport Protocol", qui est juste une façon de dire que c'est un protocole pour les informations transmises entre les serveurs WEB et leurs clients. L'important, c'est la lettre S qui fait toute la différence entre HTTP et HTTPS. Le S est synonyme de « Secure (sécurité).
+> 
+> 
+> 
